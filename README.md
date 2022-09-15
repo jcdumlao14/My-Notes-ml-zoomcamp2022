@@ -1,2 +1,2 @@
 # My-Notes-ml-zoomcamp2022
-My Notes on  Machine Learning  - 2022
+Week 2 Lecture: Car Price Prediction 2022
